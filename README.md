@@ -1,5 +1,5 @@
-#NOTE NOT MY SOURCE CODE^^^^^^
-only for development and educational purposes only.
+# NOTE NOT MY SOURCE CODE ^^^^^^
+Only for development and educational purposes only.
 Please check original uploader and contributor of this repo
 
 # WordPress Heroku
