@@ -1,3 +1,7 @@
+#NOTE NOT MY SOURCE CODE^^^^^^
+only for development and educational purposes only.
+Please check original uploader and contributor of this repo
+
 # WordPress Heroku
 
 This project is a template for installing and running [WordPress](http://wordpress.org/) on [Heroku](http://www.heroku.com/). The repository comes bundled with:
